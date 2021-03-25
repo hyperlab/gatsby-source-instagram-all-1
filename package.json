@@ -1,12 +1,12 @@
 {
-  "name": "gatsby-source-instagram-all",
+  "name": "hyperlab-gatsby-source-instagram-all",
   "description": "Gatsby source plugin for fetching all instagram posts",
   "version": "3.0.4",
   "author": "Mantas Mikalauskas <mikalauskas.it@gmail.com>",
   "bugs": {
-    "url": "https://github.com/MantasMikal/gatsby-source-instagram-all"
+    "url": "https://github.com/hyperlab/gatsby-source-instagram-all-1"
   },
-  "homepage": "https://github.com/MantasMikal/gatsby-source-instagram-all",
+  "homepage": "https://github.com/hyperlab/gatsby-source-instagram-all-1",
   "main": "gatsby-node.js",
   "license": "MIT",
   "scripts": {
